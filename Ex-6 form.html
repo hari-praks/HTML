@@ -1,0 +1,82 @@
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>19BIT0283</title>
+    <style>
+        .first {
+            display: block;
+            margin-left: 35%;
+            margin-right: 35%;
+            margin-top: 5%;
+            background-color: lightgrey;
+            padding: 20px 20px;
+            
+        }
+        #heading{
+            background-color: grey;
+            text-align: center;
+            margin-top: -20px;
+            width: 100%;
+        }
+        h3{
+            text-align: right;
+            padding: 10px 0px;
+            margin-right: 20px;
+        }
+        .fruits{
+            float: right;
+            margin-right: 35%;
+        }
+        #items{
+            float: right;
+            margin-right: 45%;
+        }
+        .info{
+            display: block;
+            margin-left: 20%;
+        }
+    </style>
+</head>
+<body>
+    
+    <form>
+        <div class="first">
+            <div id="heading"><h3>The World of Fruit</h3></div>
+            <h3>Fruit Survey</h3>
+            <div class="info">
+                <label>Name</label>
+                    &nbsp&nbsp&nbsp<input type="text" name= "name"><br> <br>
+                <label>Address</label>
+                    <input type="address" name= "address"><br> <br>
+                <label>Email</label>
+                    &nbsp&nbsp&nbsp<input type="email" name= "email">
+            </div>
+            <br> <br>
+            <p style="float: left; text-align: right;">How many pieces of fruit<br> do you eat per day?</p><br>
+            <div class="fruits">
+                
+                    <input type="radio" name = "0"><label>0</label> <br>
+                    <input type="radio" name = "1"><label>1</label> <br>
+                    <input type="radio" name = "2"><label>2</label><br> 
+                    <input type="radio" name = "more"><label>More than 2</label> <br><br>
+            </div>
+            <br><br><br><br><br><br>
+            <label for="items">My favourite fruit</label><br>
+            <select size="4" id="items">
+                <option value="apple">Apple</option>
+                <option value="pomegrante">Pomegrante</option>
+                <option value="plum">Plum</option>
+                <option value="banana">Banana</option>
+                <option value="orange">Orange</option>
+           </select><br><br><br><br>
+
+       
+            <p style="margin-left: 15%; float: left; text-align:right;">Would you like a <br> brochure? </p>
+            <br><input type = "checkbox" name = "check" style="float: right;margin-right: 52%;"><br><br>
+            <button align= "center">Submit</button>
+        </div>
+    </form>
+</body>
+</html>

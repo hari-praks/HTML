@@ -1,0 +1,62 @@
+#first{
+	background-color: black;
+	color:white;
+	display: inline-block;
+	padding: 8px;
+}
+#second{
+	background-color: black;
+	color:white;
+	display: inline-block;
+	padding: 8px;
+}
+
+#third{
+	background-color: black;
+	color:white;
+	display: inline-block;
+	padding: 8px;
+}
+
+#fourth{
+	background-color: black;
+	color:white;
+	display: inline-block;
+	padding: 8px;
+}
+
+#fifth{
+	background-color: black;
+	color:white;
+	display: inline-block;
+	padding: 8px;
+}
+#sixth{
+	background-color: green;
+	color:white;
+	display: block;
+	width: 70px;
+	height: 125px;
+	text-align: center;
+	padding: 15px;
+	font-size: 25px;
+	float: left;
+	margin-left: 10px;
+}
+img{
+	float: left;
+	margin-left: 10px;
+}
+.google{
+	list-style-type: none;
+	margin-left: 25%;
+	line-height: 25px;
+}
+.final
+{
+	background-color: white;
+	height: 650px;
+	width: 700;
+	margin:2% 5%;
+	padding: 10px;
+}

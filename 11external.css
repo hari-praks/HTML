@@ -1,0 +1,156 @@
+#first1{
+	float: right;
+	word-spacing: 15px;
+	border:2px solid blue;
+	border-radius: 8px;
+	padding: 5px;
+}
+header{
+	border:2px solid red;
+	padding: 20px;
+	background-color: linen;
+	border-radius: 8px;
+}
+ul{
+	display: inline;
+	float: right;
+	margin-right: 20px;
+}
+a{
+	text-decoration: none;
+}
+.class2{
+	border:2px solid red;
+	border-radius: 8px;
+	margin:5px 5px;
+	height: 250px;
+
+}
+#id2{
+	width: 98%;
+	height: 200px;
+	margin:10px;
+	border-radius: 10px;
+	position: relative;
+}
+article{
+	float: left;
+	background-color: linen;
+	width: 77%;
+	height: 445px;
+	border:2px solid black;
+	padding: 20px;
+	border-radius: 10px;
+}
+#para{
+  position: absolute;
+  background-color:black;
+  color:white;
+  transform: translate(3%,-130%);
+  width: 92%;
+  padding: 15px;
+  background:rgba(0,0,0,0.4);
+}
+#button{
+	float: right;
+	background-color: darkred;
+	color:white;
+	border-radius: 5px;
+	float: right;
+	width:8%;
+	margin-right: 5%;
+	padding: 5px;
+	transform: translate(3%,-170%);
+}
+aside{
+	width: 17%;
+	height: 450px;
+	float: right;
+	color:white;
+	background-color: dimgrey;
+	border:2px solid red;
+	padding: 20px;
+	border-radius: 10px;
+
+}
+
+#id11{
+	float: left;
+	width: 28%;
+	height: 130px; 
+	border:3px solid black;
+	border-radius: 10px;
+	margin-left: 10px;
+	padding: 5px;
+
+
+
+}
+#id12{
+	margin-right: 100px;
+}
+
+footer{
+	border:3px solid blue;
+	margin-top: 500px;
+	height: 130px;
+	background-color: linen;
+	border-radius: 10px;
+	padding: 20px;
+
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  width: 12px;
+  height:12px; 
+  padding: 12px;
+  border-radius: 5px;
+  margin:3px 4px;
+  float: left;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+   width: 12px;
+  height:12px; 
+  padding: 12px;
+  border-radius: 5px;
+  margin:3px 4px;
+}
+.fa-skype {
+  background: #00aff0;
+  color: white;
+   width:12px;
+  height:12px; 
+  padding: 12px;
+  border-radius: 5px;
+  margin:3px 4px;
+}
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+   width: 12px;
+  height:12px; 
+  padding: 12px;
+  border-radius: 5px;
+  margin:3px 4px;
+}
+.fa-rss {
+  background: #ff6600;
+  color: white;
+   width: 12px;
+  height:12px; 
+  padding: 12px;
+  border-radius: 5px;
+  margin:2px 3px;
+  margin-right: 22px;
+  float: right;
+}
+#id15{
+	width: 80px;
+	height: 85px;
+	margin-left: 2px;
+}
